@@ -18,6 +18,8 @@ Based on the findings below, other cities will be able to compare their deograph
 
 The most popular starting locations looks very similar to the top ending locations.  Thus, CitiBike looks to be most popular in Lower Manhattan where the larger commercial district is located. 
 
+![Top Starting Location](/images/topstarting.png)
+
 ###### Checkout Times by User
 
 CitiBikes are consistently used for longer durrations in the morning hours as opposed to later in the day.  
@@ -47,3 +49,6 @@ While one might assume that Citibikes are simply for tourists, we found that the
 
 Also, Cities that have a larger male population may also have a successful CitiBike service thank those without as the data above shows that most of NYC's citi bike users were male.  
 
+Lastly, there are two additional visualizations I reccomend looking at given this data set:  
+1. A map and bar graph of the top starting and ending points' popularity per hour/weekday.  This may help us better understand where our users are going and when- is it to work, to sight seeing destinations, or both?  
+2. I would also make a line graph that shows ti difference between a customer's average trip duration and a subscriber's.  This may help us understand how long of a trip it takes for someoen to consider the subscription worth it.   
