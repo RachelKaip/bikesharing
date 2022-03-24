@@ -18,27 +18,21 @@ Based on the findings below, other cities will be able to compare their deograph
 
 The most popular starting locations looks very similar to the top ending locations.  Thus, CitiBike looks to be most popular in Lower Manhattan where the larger commercial district is located. 
 
-![Top Starting Location](images/topstarting.png)
-
-![Top Ending Location](images/topending.png)
 
 ###### Checkout Times by User
 
 CitiBikes are consistently used for longer durrations in the morning hours as opposed to later in the day.
 
-![Checkout Times by User](images/checkoutbyuser.png)
+
 
 ###### Checkout Times per Day by Hour
 
 The most popular days/hours to use a CitiBike are consistent with those of the standard work day.  Commuters must opt for CitiBikes instead of other transportation options.
 
-![Most Popular Trip Times per Day](images/tripsbydayperhour.png)
 
 ###### Gender Breakdown
 
 Of the 2,344,224 rides, the majority have been taken by our Male users.  
-
-
 
 ###### Checkout Times by Gender
 
